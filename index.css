@@ -1,0 +1,24 @@
+body {
+    background-color:aqua;
+}
+
+table,th,td {
+    /* padding: 1%; */
+    border: 1px solid black;
+}
+
+.title:hover {
+    color:rgb(187, 145, 38);
+}
+
+.subtitle {
+    color:beige;
+}
+
+.subtitle1 {
+    color:burlywood;
+}
+
+#contacts {
+    color:darkslategrey;
+}
